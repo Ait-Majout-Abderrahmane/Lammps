@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH -J LMP
+#SBATCH -J LMMP
 #SBATCH --ntasks=16
 #SBATCH --ntasks-per-core=1
 #SBATCH --partition=shortq
